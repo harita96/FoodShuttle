@@ -1,0 +1,655 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<ProductCatalog>
+
+	<WearablesCatalog>
+		<SmartWatchesCatalog>
+			<SmWatch id="apple">
+				<name>Apple watch</name>
+				<price>399</price>
+				<image>Apple_watch.png</image>
+				<manufacturer>Apple</manufacturer>
+				<condition>new</condition>
+				<discount>10.0</discount>
+				<accessories>
+					<accessory>smart cable</accessory>
+				</accessories>
+			</SmWatch>
+			<SmWatch id="fossil">
+				<name>Fossil watch</name>
+				<price>299</price>
+				<image>fossil.jpg</image>
+				<manufacturer>Fossil group</manufacturer>
+				<condition>new</condition>
+				<discount>10.0</discount>
+				<accessories>
+					<accessory>sports band</accessory>
+				</accessories>
+			</SmWatch>
+			<SmWatch id="fitbit">
+				<name>Fitbit Versa</name>
+				<price>199</price>
+				<image>fitbit.jpg</image>
+				<manufacturer>Fitbit</manufacturer>
+				<condition>used</condition>
+				<discount>40.0</discount>
+				<accessories>
+					<accessory>band</accessory>
+				</accessories>
+			</SmWatch>
+			<SmWatch id="Moto360">
+                <name>Moto 360</name>
+                <price>345</price>
+				<image>moto360.jpg</image> 
+				<manufacturer>Moto360</manufacturer> 
+				<condition>used</condition> 
+				<discount>20.0</discount>
+				<accessories>
+                    <accessory>Moto360_A</accessory>
+                    <accessory>Moto360_B</accessory>
+                </accessories>
+            </SmWatch>
+		</SmartWatchesCatalog>
+
+		<HeadphonesCatalog>
+			<Headphone id="sony">
+				<name>Sony MDR-ZX110 Stereo Headphones</name>
+				<price>14.99</price>
+				<image>sony_headphones.jpg</image>
+				<manufacturer>Sony</manufacturer>
+				<condition>New</condition>
+				<discount>5.0</discount>	
+				<accessories>
+					<accessory>Accessory_1</accessory>
+	                <accessory>Accessory_2</accessory>	
+				</accessories>
+			</Headphone>
+			<Headphone id="bose">
+				<name>Bose Headphones</name>
+				<price>200</price>
+				<image>bose_headphones.jpeg</image>
+				<manufacturer>BOSE</manufacturer>
+				<condition>New</condition>
+				<discount>15.0</discount>	
+				<accessories>
+					<accessory>Accessory_1</accessory>
+	                <accessory>Accessory_2</accessory>	
+				</accessories>
+			</Headphone>
+			<Headphone id="beats">
+				<name>Beats Solo2 Luxe Edition</name>
+				<price>89.99</price>
+				<image>beats_headphones.jpg</image>
+				<manufacturer>Beats</manufacturer>
+				<condition>New</condition>
+				<discount>0.0</discount>
+				<accessories>
+					<accessory>Accessory_1</accessory>
+	                <accessory>Accessory_2</accessory>	
+				</accessories>	
+			</Headphone>
+			<Headphone id="apple_ipod">
+				<name>Apple Ear Pods</name>
+				<price>159.99</price>
+				<image>apple_headphones.jpg</image>
+				<manufacturer>Apple</manufacturer>
+				<condition>New</condition>
+				<discount>0.0</discount>
+				<accessories>
+					<accessory>Accessory_1</accessory>
+	               	<accessory>Accessory_2</accessory>	
+				</accessories>
+			</Headphone>
+			<Headphone id="Panasonic">
+	            <name>Panasonic</name>
+	            <price>510</price>
+				<image>panasonic.jpg</image> 
+				<manufacturer>Panasonic</manufacturer> 
+				<condition>New</condition> 
+				<discount>10.0</discount>
+				<accessories>
+	                <accessory>Panasonic_A</accessory>
+	                <accessory>Panasonic_B</accessory>
+	            </accessories>
+	        </Headphone>
+		</HeadphonesCatalog>
+
+		<VirtualRealityCatalog>
+			<VirtualReality id="vr1">
+				<name>Samsung Gear VR</name>
+				<price>129.99</price>
+				<image>virtual1.jpg</image>
+				<manufacturer>Samsung</manufacturer>
+				<condition>new</condition>
+				<discount>0.0</discount>
+				<accessories>
+					<accessory>power bank</accessory>
+	            </accessories>
+			</VirtualReality>
+		</VirtualRealityCatalog>
+
+		<PettrackersCatalog>
+			<PetTracker id="dog_tracker">
+				<name>LINK AKC - Smart Dog Collar</name>
+				<price>179.99</price>
+				<image>dog_tracker.jpg</image>
+				<manufacturer></manufacturer>
+				<condition>new</condition>
+				<discount>0.0</discount>
+				<transmitter_weight>150 grams</transmitter_weight>
+				<battery_life>1-3 days</battery_life>
+			</PetTracker>
+			<PetTracker id="gps_tracker">
+				<name>Tractive GPS Tracker</name>
+				<price>9.95</price>
+				<image>gps_tracker.jpg</image>
+				<manufacturer></manufacturer>
+				<condition>new</condition>
+				<discount>0.0</discount>
+				<transmitter_weight>35 grams</transmitter_weight>
+				<battery_life>2-4 days</battery_life>
+			</PetTracker>
+		</PettrackersCatalog>
+	</WearablesCatalog>
+	
+	
+	<PhoneCatalog>
+		<Phone id="16751896">
+			<name>Frontera Grill</name>
+			<price>499.99</price>
+			<image>4.jpg</image>
+			<manufacturer>445 North Clark Street </manufacturer>
+			<condition>60654</condition>
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>charger</accessory>
+				<accessory>data cable</accessory>
+				<accessory>screen cover</accessory>
+			</accessories>
+			
+			</Phone>
+		<Phone id="16737455">
+			<name>Portillo's Hot Dogs</name>
+			<price>484</price>
+			<image>6.jpg</image>
+			<manufacturer>100 West. Ontario </manufacturer>
+			<condition>60610</condition>
+			<discount>0.0</discount>
+			<accessories>
+				<accessory>charger</accessory>
+				<accessory>data cable</accessory>
+				<accessory>screen cover</accessory>
+			</accessories>
+			
+		</Phone>
+		<Phone id="16734461">
+			<name>The Gage</name>
+			<price>399</price>
+			<image>motorola.jpg</image>
+			<manufacturer>24 South Michigan Avenue </manufacturer>
+			<condition>60603</condition>
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>charger</accessory>
+				<accessory>data cable</accessory>
+				<accessory>screen cover</accessory>
+			</accessories>
+			
+		</Phone>
+		<Phone id="16739911">
+			<name>The Publican</name>
+			<price>169.90</price>
+			<image>Phab-2.jpg</image>
+			<manufacturer>837 W Fulton Market, Chicago </manufacturer>
+			<condition>60607</condition>
+			<discount>5.0</discount>
+			<accessories>
+				<accessory>charger</accessory>
+				<accessory>data cable</accessory>
+				<accessory>screen cover</accessory>
+			</accessories>
+			
+		</Phone>
+		<Phone id="16739529">
+			<name>Yolk (South Loop)</name>
+			<price>649</price>
+			<image>pixel2.jpg</image>
+			<manufacturer>1120 South Michigan Avenue, South Loop </manufacturer>
+			<condition>60605</condition>
+			<discount>0.0</discount>
+			<accessories>
+				<accessory>charger</accessory>
+				<accessory>data cable</accessory>
+				<accessory>screen cover</accessory>
+			</accessories>
+		</Phone>
+		
+		<Phone id="16736014">
+			<name>Lou Malnati's Pizzeria</name>
+			<price>749</price>
+			<image>7.jpg</image>
+			<manufacturer>439 N Wells Street  </manufacturer>
+			<condition>60654</condition>
+			<discount>0.0</discount>
+			<accessories>
+				<accessory>ear plugs</accessory>
+				<accessory>data cable</accessory>
+			</accessories>
+		</Phone>		
+		
+		<Phone id="16735829">
+			<name>Lazo's Tacos</name>
+			<price>1099</price>
+			<image>iphone_xs_max.jpg</image>
+			<manufacturer>2009 N Western Avenue, Chicago, IL </manufacturer>
+			<condition>60647</condition>
+			<discount>0.0</discount>
+			<accessories>
+				<accessory>charger</accessory>
+				<accessory>data cable</accessory>
+			</accessories>
+		</Phone>
+		
+		<Phone id="16756465">
+			<name>Stanley's Blackhawk Kitchen</name>
+			<price>669</price>
+			<image>8.jpg </image>
+			<manufacturer>O'Hare International Airport, Terminal 2, Concourse E, Gate E3, IL </manufacturer>
+			<condition>60666</condition>
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>charger</accessory>
+				<accessory>data cable</accessory>
+				<accessory>screen cover</accessory>
+			</accessories>
+		</Phone>
+		<Phone id="16734526">
+			<name>Gibsons Bar and Steakhouse</name>
+			<price>229</price>
+			<image>9.jpg</image>
+			<manufacturer>1028 North Rush  </manufacturer>
+			<condition>60611</condition>
+			<discount>5.0</discount>
+			<accessories>
+				<accessory>charger</accessory>
+				<accessory>data cable</accessory>
+				<accessory>screen cover</accessory>
+			</accessories>
+		</Phone>
+		<Phone id="16732534">
+			<name>Bombon Cafe</name>
+			<price>134</price>
+			<image>10.jpg</image>
+			<manufacturer>36 S. Ashland Avenue </manufacturer>
+			<condition>60607</condition>
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>charger</accessory>
+				<accessory>data cable</accessory>
+				<accessory>screen cover</accessory>
+			</accessories>
+		</Phone>
+		<Phone id="16741070">
+			<name>Jim and Tom's Restaurant</name>
+			<price>200</price>
+			<image>micromax.jpg</image>
+			<manufacturer>123 W. Irving Park Road, Chicago </manufacturer>
+			<condition>60106</condition>
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>charger</accessory>
+				<accessory>data cable</accessory>
+				<accessory>screen cover</accessory>
+			</accessories>
+		</Phone>
+	</PhoneCatalog>
+
+	<LaptopCatalog>
+		<Laptop id="sonylp">
+			<name>Soup</name>
+			<price>5</price>
+			<image>2.jpg</image> 
+			<manufacturer>Sony</manufacturer> 
+			<condition>new</condition> 
+			<discount>5.0</discount>
+			<accessories>
+				<accessory>laptop_cover</accessory>
+				<accessory>Sony_B</accessory>
+			</accessories>
+		</Laptop>
+		<Laptop id="mac">
+			<name>Meat</name>
+			<price>8.99</price>
+			<image>3.jpg</image> 
+			<manufacturer>Apple</manufacturer> 
+			<condition>used</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Power bank</accessory>
+				<accessory>laptop_cover</accessory>
+			</accessories>
+		</Laptop>
+		<Laptop id="MSI">
+            <name>Chocolate Mousse</name>
+            <price>6.45</price>
+			<image>5.jpg</image> 
+			<manufacturer>MSI</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+            	<accessory>hdd_seagate</accessory>
+                <accessory>MSI_B</accessory>
+                <accessory>laptop_cover</accessory>
+            </accessories>
+        </Laptop>
+		<Laptop id="Asus">
+			<name>Pork Rillettes</name>
+            <price>11.99</price>
+			<image>11.jpg</image> 
+			<manufacturer>Asus</manufacturer> 
+			<condition>new</condition> 
+			<discount>0.0</discount>
+			<accessories>
+            	<accessory>Asus_1</accessory>
+                <accessory>hdd_seagate</accessory>
+                <accessory>laptop_cover</accessory>
+            </accessories>
+		</Laptop>
+		<Laptop id="delllp">
+			<name>Hey Ricky! Omelet</name>
+            <price>14</price>
+			<image>12.png</image> 
+			<manufacturer>Dell</manufacturer> 
+			<condition>new</condition> 
+			<discount>5.0</discount>
+			<accessories>
+                <accessory>wireless mouse</accessory>
+                <accessory>power battery</accessory>
+                <accessory>laptop_cover</accessory>
+            </accessories>
+		</Laptop>
+		<Laptop id="Microsoftlp">
+			<name>CHILI CHEESE DOG</name>
+            <price>12.99</price>
+			<image>13.jpg</image> 
+			<manufacturer>Microsoft</manufacturer> 
+			<condition>used</condition> 
+			<discount>5.0</discount>
+			<accessories>
+                <accessory>hdd_seagate</accessory>
+                <accessory>power adapter</accessory>
+                <accessory>laptop_cover</accessory>
+            </accessories>
+		</Laptop>
+		<Laptop id="hp">
+			<name>SPAGHETTI</name>
+			<price>11.99</price>
+			<image>14.png</image> 
+			<manufacturer>HP</manufacturer> 
+			<condition>new</condition> 
+			<discount>5.0</discount>
+			<accessories>
+                <accessory>HP Desk printer</accessory>
+                <accessory>HP wireless mouse</accessory>
+                <accessory>laptop_cover</accessory>
+            </accessories>
+		</Laptop>
+		<Laptop id="Lenovolp1">
+            <name>FETTUCCINE</name>
+            <price>12.99</price>
+			<image>15.png</image> 
+			<manufacturer>Lenovo</manufacturer> 
+			<condition>New</condition> 
+			<discount>15.0</discount>
+			<accessories>
+            	<accessory>hdd_seagate</accessory>
+                <accessory>laptop_cover</accessory>
+            </accessories>
+		</Laptop>
+		
+		<Laptop id="Lenovolp2">
+            <name>Pizza</name>
+            <price>14.99</price>
+			<image>pizza.jpg</image> 
+			<manufacturer>Lenovo</manufacturer> 
+			<condition>New</condition> 
+			<discount>15.0</discount>
+			<accessories>
+            	<accessory>hdd_seagate</accessory>
+                <accessory>laptop_cover</accessory>
+            </accessories>
+		</Laptop>
+		
+		<Laptop id="Lenovolp3">
+            <name>French Toast</name>
+            <price>8.99</price>
+			<image>toast.jpg</image> 
+			<manufacturer>Lenovo</manufacturer> 
+			<condition>New</condition> 
+			<discount>15.0</discount>
+			<accessories>
+            	<accessory>hdd_seagate</accessory>
+                <accessory>laptop_cover</accessory>
+            </accessories>
+		</Laptop>
+		
+		<Laptop id="Lenovolp4">
+            <name>Burrito</name>
+            <price>8.99</price>
+			<image>burrito.jpg</image> 
+			<manufacturer>Lenovo</manufacturer> 
+			<condition>New</condition> 
+			<discount>15.0</discount>
+			<accessories>
+            	<accessory>hdd_seagate</accessory>
+                <accessory>laptop_cover</accessory>
+            </accessories>
+		</Laptop>
+		
+		<Laptop id="Lenovolp5">
+            <name>Salad</name>
+            <price>7.99</price>
+			<image>salad.jpg</image> 
+			<manufacturer>Lenovo</manufacturer> 
+			<condition>New</condition> 
+			<discount>15.0</discount>
+			<accessories>
+            	<accessory>hdd_seagate</accessory>
+                <accessory>laptop_cover</accessory>
+            </accessories>
+		</Laptop>
+		
+	</LaptopCatalog>
+
+	<MiscellaneousCatalog>
+		<SpeakerCatalog>
+			<speakers id="Dynaudio">
+                <name>Dynaudio</name>
+                <price>390</price>
+				<image>Dynaudio.jpg</image> 
+				<manufacturer>Dynaudio</manufacturer> 
+				<condition>New</condition> 
+				<discount>20.0</discount>
+				<accessories>
+                	<accessory>Dynaudio_A</accessory>
+                    <accessory>Dynaudio_B</accessory>
+                </accessories>
+			</speakers>
+			<speakers id="Bosssp">
+                <name>Boss</name>
+                <price>90</price>
+				<image>Bosssp.jpg</image> 
+				<manufacturer>Boss</manufacturer> 
+				<condition>New</condition> 
+				<discount>9.0</discount>
+				<accessories>
+                 	<accessory>power bank</accessory>
+                   	<accessory>ear plugs</accessory>
+             	</accessories>
+            </speakers>
+			<speakers id="sonos">
+                <name>Sonon Beam Soundbar</name>
+                <price>399</price>
+				<image>sonos.png</image> 
+				<manufacturer>Sonos</manufacturer> 
+				<condition>used</condition> 
+				<discount>10.0</discount>
+				<accessories>
+                	<accessory>Accessory_1</accessory>
+                   	<accessory>Accessory_2</accessory>
+                </accessories>
+            </speakers>
+            <speakers id="jbl">
+            	<name>JBL Extreme Portable Speaker</name>
+                <price>299.00</price>
+				<image>jbl.jpg</image> 
+				<manufacturer>JBL</manufacturer> 
+				<condition>new</condition> 
+				<discount>5.0</discount>
+				<accessories>
+                	<accessory>JBL_1</accessory>
+                    <accessory>JBL_2</accessory>
+                </accessories>
+            </speakers>
+			<speakers id="DefinitiveTechnology">
+                <name>Definitive Technology</name>
+                <price>325</price>
+				<image>dt.jpg</image> 
+				<manufacturer>Definitive Technology</manufacturer> 
+				<condition>New</condition> 
+				<discount>20.0</discount>
+				<accessories>
+                	<accessory>DefinitiveTechnology_A</accessory>
+                    <accessory>DefinitiveTechnology_B</accessory>
+                </accessories>
+			</speakers>
+		</SpeakerCatalog>
+
+		<ExternalStorageCatalog>
+			<ExternalStorage id="WD">
+                <name>WD</name>
+             	<price>130</price>
+				<image>WD.jpg</image> 
+				<manufacturer>WD</manufacturer> 
+				<condition>used</condition> 
+				<discount>50.0</discount>
+				<accessories>
+	                <accessory>WD_A</accessory>
+	                <accessory>WD_B</accessory>
+				</accessories>
+			</ExternalStorage>
+			<ExternalStorage id="Seagate">
+                <name>Seagate</name>
+                <price>59</price>
+				<image>seagate.jpg</image> 
+				<manufacturer>Seagate</manufacturer> 
+				<condition>New</condition> 
+				<discount>10.0</discount>
+				<accessories>
+	                <accessory>Seagate_A</accessory>
+	                <accessory>Seagate_B</accessory>
+                </accessories>
+            </ExternalStorage>
+            <ExternalStorage id="DellDrive">
+                <name>Dell DVD Drive</name>
+                <price>53.9</price>
+				<image>Delldrive.jpg</image> 
+				<manufacturer>Dell </manufacturer> 
+				<condition>New</condition> 
+				<discount>10.0</discount>
+				<accessories>
+                	<accessory>Dell_A</accessory>
+                    <accessory>Dell_B</accessory>
+                </accessories>
+            </ExternalStorage>
+			<ExternalStorage id="Samsunges">
+                <name>Samsung Solid Drive State</name>
+                <price>499</price>
+				<image>soliddrive.jpg</image> 
+				<manufacturer>Samsung</manufacturer> 
+				<condition>New</condition> 
+				<discount>20.0</discount>
+				<accessories>
+                	<accessory>Samsung_A</accessory>
+                    <accessory>Samsung_B</accessory>
+            	</accessories>
+            </ExternalStorage>
+		</ExternalStorageCatalog>
+	</MiscellaneousCatalog>
+
+	<AccessoriesCatalog>
+		<accessoryItem id="laptop_cover">
+            <name>Laptop Cover</name>
+            <price>32.19</price>
+			<image>LaptopCover.jpg</image> 
+			<manufacturer>KEF</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+        </accessoryItem>
+        <accessoryItem id="jbl">
+            <name>Portable Speaker JBL</name>
+            <price>299.0</price>
+			<image>jbl.jpg</image> 
+			<manufacturer>JBL</manufacturer> 
+			<condition>new</condition> 
+			<discount>5.0</discount>
+        </accessoryItem>
+		<accessoryItem id="toolkit">
+            <name>ToolKit</name>
+            <price>75.19</price>
+			<image>toolkit.jpg</image> 
+			<manufacturer>KEF</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+        </accessoryItem>
+        <accessoryItem id="WD">
+            <name>WD HDD</name>
+            <price>130</price>
+			<image>WD.jpg</image> 
+			<manufacturer>WD</manufacturer> 
+			<condition>used</condition> 
+			<discount>50.0</discount>
+		</accessoryItem>
+		<accessoryItem id="bose">
+			<name>Headphones Bose</name>
+			<price>200</price>
+			<image>bose_headphones.jpeg</image>
+			<manufacturer>BOSE</manufacturer>
+			<condition>New</condition>
+			<discount>15.0</discount>	
+		</accessoryItem>
+		<accessoryItem id="pioneer">
+            <name>Pioneer</name>
+            <price>50.19</price>
+			<image>Pioneer.jpg</image> 
+			<manufacturer>Pioneer</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+        </accessoryItem>
+        <accessoryItem id="beats">
+			<name>Beats Solo2</name>
+			<price>89.99</price>
+			<image>beats_headphones.jpg</image>
+			<manufacturer>Beats</manufacturer>
+			<condition>New</condition>
+			<discount>0.0</discount>
+		</accessoryItem>
+		<accessoryItem id="apple_ipod">
+			<name>Earpods Apple</name>
+			<price>159.99</price>
+			<image>apple_headphones.jpg</image>
+			<manufacturer>Apple</manufacturer>
+			<condition>New</condition>
+			<discount>0.0</discount>
+		</accessoryItem>
+		<accessoryItem id="hdd_seagate">
+            <name>Seagate HDD</name>
+            <price>105.19</price>
+			<image>seagate.jpg</image> 
+			<manufacturer>Seagate</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+        </accessoryItem>
+	</AccessoriesCatalog>
+
+</ProductCatalog>
